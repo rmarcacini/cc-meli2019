@@ -24,6 +24,8 @@ The C² method ranked fourth (private leaderboard) in the Meli Data Challenge 20
 * pickle
 * tqdm
 * sklearn
+* networkx
+* nltk
 * fasttext (compiled from source code)
 
 # How to use?
