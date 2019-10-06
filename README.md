@@ -33,3 +33,7 @@ The C² method ranked fourth (private leaderboard) in the Meli Data Challenge 20
 There is a jupyter notebook describing all the steps for executing the C² method. Some parts need to be adapted to your hardware requirements (if you have multiple GPUs).
 
 The jupyter notebook is available here: [meli2019.ipynb](meli2019.ipynb).
+
+# License
+
+This software is available under [MIT license](LICENSE.MIT).
